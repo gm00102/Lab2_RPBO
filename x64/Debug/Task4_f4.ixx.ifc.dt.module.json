@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\максим\\desktop\\учеба\\rpbo\\лаб 2 рбпо\\task4_f4.ixx",
+        "ProvidedModule": "student3:f4",
+        "ImportedModules": [
+            "student3:a"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

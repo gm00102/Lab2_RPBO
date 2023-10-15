@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\максим\\desktop\\учеба\\rpbo\\лаб 2 рбпо\\student3.1bib21041.lab2.variant7.task4.ixx",
+        "ProvidedModule": "student3",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "student3:f1",
+                "BMI": "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\x64\\Debug\\Task4_f1.ixx.ifc.dt"
+            },
+            {
+                "Name": "student3:f2",
+                "BMI": "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\x64\\Debug\\Task4_f2.ixx.ifc.dt"
+            },
+            {
+                "Name": "student3:f3",
+                "BMI": "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\x64\\Debug\\Task4_f3.ixx.ifc.dt"
+            },
+            {
+                "Name": "student3:a",
+                "BMI": "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\x64\\Debug\\Task4_a.ixx.ifc.dt"
+            },
+            {
+                "Name": "student3:f4",
+                "BMI": "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\x64\\Debug\\Task4_f4.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

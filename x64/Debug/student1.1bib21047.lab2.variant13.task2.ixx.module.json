@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\student1.1bib21047.Lab2.Variant13.Task2.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Максим\\Desktop\\Ваня лаб 2 РБПО\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Максим\\Desktop\\Ваня лаб 2 РБПО\\x64\\Debug\\student1.1bib21047.Lab2.Variant13.Task2.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student1",
+                    "source-path": "c:\\users\\максим\\desktop\\ваня лаб 2 рбпо\\student1.1bib21047.lab2.variant13.task2.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
