@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\student4.1bib21041.Lab2.Variant7.Task5.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\Lab2\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\Lab2\\x64\\Debug\\student4.1bib21041.Lab2.Variant7.Task5.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student4",
+                    "source-path": "c:\\users\\максим\\desktop\\учеба\\rpbo\\лаб 2 рбпо\\lab2\\student4.1bib21041.lab2.variant7.task5.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

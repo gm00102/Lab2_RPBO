@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Task4_f2.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\Lab2\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Максим\\Desktop\\учеба\\RPBO\\Лаб 2 РБПО\\Lab2\\x64\\Debug\\Task4_f2.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student3:f2",
+                    "source-path": "c:\\users\\максим\\desktop\\учеба\\rpbo\\лаб 2 рбпо\\lab2\\task4_f2.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

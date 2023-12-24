@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\максим\\desktop\\лаб 2 рбпо\\lab2\\student3.1bib21041.lab2.variant14.task4.ixx",
+        "ProvidedModule": "student3",
+        "ImportedModules": [
+            "student3:f1",
+            "student3:f2",
+            "student3:f3",
+            "student3:f4",
+            "student3:a"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
